@@ -1,5 +1,8 @@
 No diretório do projeto, você pode executar:
 
+### `npm install`
+Instalar as dependências do projeto.
+
 ### `npm start`
 
 Executa o aplicativo no modo de desenvolvimento.\
@@ -7,8 +10,9 @@ Abra [http://localhost:3000](http://localhost:3000) para ver no seu browser.
 
 ### `npm test`
 
-Testes.
+Executar Testes. Pressione a letra **a**.
 
+Testes aplicados:
 - Se algum campo estiver vazio, não pode cadastrar
 - Cadastrar, caso exista todos os valores preenchidos corretamente
 - Se a data for invalida 30/02/2020, mostrar error
