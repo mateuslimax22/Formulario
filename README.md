@@ -7,7 +7,7 @@ Abra [http://localhost:3000](http://localhost:3000) para ver no seu browser.
 
 ### `npm test`
 
-Testes.\
+Testes.
 
 - Se algum campo estiver vazio, não pode cadastrar
 - Cadastrar, caso exista todos os valores preenchidos corretamente
